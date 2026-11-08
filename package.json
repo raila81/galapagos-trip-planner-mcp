@@ -1,0 +1,16 @@
+{
+  "name": "galapagos-trip-planner-mcp",
+  "version": "1.0.0",
+  "description": "Galapagos trip planning tools for AI assistants (MCP): trip cost, island-hopping itinerary, ferry times, weather, wildlife and park fees.",
+  "mcpName": "info.galapagosislands/galapagos-trip-planner",
+  "type": "module",
+  "bin": { "galapagos-trip-planner-mcp": "index.js" },
+  "files": ["index.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "model-context-protocol", "galapagos", "ecuador", "travel", "trip-planner", "itinerary", "ferry", "wildlife", "chatgpt", "claude"],
+  "homepage": "https://galapagosislands.info/ai-assistants/",
+  "repository": { "type": "git", "url": "git+https://github.com/raila81/galapagos-trip-planner-mcp.git" },
+  "bugs": { "url": "https://github.com/raila81/galapagos-trip-planner-mcp/issues" },
+  "author": "Rainer Lang <info@galapagosislands.info>",
+  "license": "MIT"
+}
