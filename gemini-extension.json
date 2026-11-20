@@ -1,0 +1,10 @@
+{
+  "name": "galapagos-trip-planner",
+  "version": "1.0.0",
+  "description": "Galapagos trip planning tools for AI assistants (MCP): trip cost, itinerary, ferries, weather, wildlife, park fees",
+  "mcpServers": {
+    "galapagos-trip-planner": {
+      "httpUrl": "https://galapagosislands.info/mcp?src=mcp"
+    }
+  }
+}
